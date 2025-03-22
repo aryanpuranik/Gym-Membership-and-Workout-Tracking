@@ -32,3 +32,16 @@ A full-featured database system designed to manage the operations of a gym — f
 - Aryan Puranik
 - Alekhya Nalla
 
+
+UI:
+
+<img width="1263" alt="Screenshot 2025-03-21 at 8 39 10 PM" src="https://github.com/user-attachments/assets/bd33d55d-551b-4623-b0e8-e20782e8ae69" />
+
+
+<img width="1196" alt="Screenshot 2025-03-21 at 8 39 35 PM" src="https://github.com/user-attachments/assets/1ede7c41-2826-41a9-9ede-8065f753fd0a" />
+
+
+<img width="600" alt="Screenshot 2025-03-21 at 8 40 11 PM" src="https://github.com/user-attachments/assets/8ba4143e-056f-4576-b118-86c1580b9c46" />
+
+
+
