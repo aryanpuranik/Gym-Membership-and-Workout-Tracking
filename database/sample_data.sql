@@ -16,11 +16,11 @@ INSERT INTO Trainer (T_name, T_specialization, T_experience, T_contact_info, T_a
 ('Alice Green', 'Cardio & Endurance', 4, 'alice@example.com', 'Available','Full-Time');
 
 INSERT INTO Full_Time_Trainer (T_id, Salary, Fixed_Hours) VALUES
-(1, 5000.00, 40),  -- Sarah Connor
-(3, 4800.00, 38);  -- Alice Green
+(1, 5000.00, 40),  
+(3, 4800.00, 38);  
 
 INSERT INTO Part_Time_Trainer (T_id, Hour_Rate, Schedule) VALUES
-(2, 35.00, 'Mon-Wed-Fri: 6pm-9pm');  -- James Brown;
+(2, 35.00, 'Mon-Wed-Fri: 6pm-9pm');  
 
 INSERT INTO Trainer_Assignment (T_id, M_id, TA_start_date, TA_end_date) VALUES
 (1, 1, '2024-03-01', '2024-09-01'),
