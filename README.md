@@ -1,4 +1,3 @@
-[![Built with Streamlit](https://img.shields.io/badge/Built%20With-Streamlit-blue?style=flat&logo=streamlit)](https://streamlit.io)
 [![Database: MySQL](https://img.shields.io/badge/Database-MySQL-blue?logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Frontend: Streamlit](https://img.shields.io/badge/Frontend-Streamlit-red?logo=streamlit&logoColor=white)](https://streamlit.io)
 [![Language: Python](https://img.shields.io/badge/Language-Python-yellow?logo=python&logoColor=white)](https://www.python.org/)
