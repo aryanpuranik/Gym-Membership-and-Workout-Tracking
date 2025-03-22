@@ -68,7 +68,7 @@ CREATE TABLE Trainer (
     T_experience INT CHECK (T_experience >= 0),
     T_contact_info VARCHAR(255),
     T_availability ENUM('Available', 'Unavailable') DEFAULT 'Available',
-    T_type ENUM('Full-Time', 'Part-Time') NOT NULL -- Differentiates Subtypes
+    T_type ENUM('Full-Time', 'Part-Time') NOT NULL
 );
 
 -- (Subtype)
