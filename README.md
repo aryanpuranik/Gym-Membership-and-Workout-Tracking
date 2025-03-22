@@ -32,5 +32,3 @@ A full-featured database system designed to manage the operations of a gym — f
 - Aryan Puranik
 - Alekhya Nalla
 
-## 📜 License
-[MIT](LICENSE)
