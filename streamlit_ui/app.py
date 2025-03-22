@@ -5,9 +5,9 @@ import pandas as pd
 # MySQL Connection
 def get_connection():
     return mysql.connector.connect(
-        host="localhost",   # Change this to your MySQL host
-        user="root",   # Change this to your MySQL username
-        password="Rocklight@123", # Change this to your MySQL password
+        host=" --- ",   
+        user=" --- ",   
+        password=" ---- ", 
         database="gym"
     )
 
